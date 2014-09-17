@@ -11,11 +11,11 @@
 * [ColorCombos](http://www.colorcombos.com) Great selection of color palettes
 * [COLOURlovers](http://www.colourlovers.com/palettes/add) Great selection of colors, palettes, and patterns
 
-## Background and Wallpapers
+## Backgrounds and Wallpapers
 
-* [MinimalWall](http://www.minimalwall.com) Selection of minimalist wallpapers, good to find a color
 * [Subtle Patterns](http://subtlepatterns.com/) Nice selection of backgrounds with light patterns
 * [Transparent Textures](http://www.transparenttextures.com/) Selection of transparent textures
+* [MinimalWall](http://www.minimalwall.com) Selection of minimalist wallpapers, good to find a color
 
 ## Inforgraphics tools
 
@@ -42,7 +42,7 @@
 ## CSS Kits
 
 * Bootstraps
-*[InK - Interface Kit](http://ink.sapo.pt/) Responsive CSS Interface Kit
+* [InK - Interface Kit](http://ink.sapo.pt/) Responsive CSS Interface Kit
 
 ## Design Blogs
 
