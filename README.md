@@ -1,10 +1,57 @@
-# Resource
+# Various links about everything
 
-## Resources Design 
+# Design
+
+## Color pickers
+
+* [Paletton](http://paletton.com) Web app to find matching colors
+* [Adobe Kuler](https://kuler.adobe.com) Great Color matching tool allowing you to save themes
+* [Color Schemy](http://www.colorschemy.com/) Another color picker
+* [0to255](http://0to255.com/) Web app to find gradients of a specific color, usefull for hover links
+* [ColorCombos](http://www.colorcombos.com) Great selection of color palettes
+* [COLOURlovers](http://www.colourlovers.com/palettes/add) Great selection of colors, palettes, and patterns
+
+## Background and Wallpapers
+
+* [MinimalWall](http://www.minimalwall.com) Selection of minimalist wallpapers, good to find a color
+* [Subtle Patterns](http://subtlepatterns.com/) Nice selection of backgrounds with light patterns
+* [Transparent Textures](http://www.transparenttextures.com/) Selection of transparent textures
+
+## Inforgraphics tools
+
+* [easel.ly](http://www.easel.ly) Web app to create infographics
+* [Piktochart](http://piktochart.com/) Web app to create infographics
+* [Infogr.am](http://infogr.am/) Create infographics, nice and interactive charts
+
+## Inspiration
+
+* [Dribbble](http://dribbble.com/) Best community of designers, tons of high quality designers work
+* [Logopond](http://logopond.com/) Great selection of Logos
+* [Logo Faves](http://logofaves.com/) Another great selection of logos
+* [VisualSundae](http://visualsundae.com) Gallery of designer works on different support
+
+## Charts
+
+* RaphaelJS
+* Google Chart
+
+## Fonts
+
+* [Typography](http://www.typography.com/) Large collection of fonts
+
+## CSS Kits
+
+* Bootstraps
+*[InK - Interface Kit](http://ink.sapo.pt/) Responsive CSS Interface Kit
+
+## Design Blogs
 
 * [Web 2.0 Design Guide](http://www.webdesignfromscratch.com/web-design/web-2-0-design-style-guide/) Your complete guide to Web 2.0 design style. I talk you through the elements of web2.0 design, and show you how to do web design 2.0
 
 * [Online web design portfolio of Rob Palmer, Creating accessible website design · Branded07](http://www.branded07.com/) Welcome to Branded07, Online Web Design Portfolio of Rob Palmer. Creating accessible website design. Using Web Standards.
+
+* [GoodUI](http://goodui.org/) List of tips for good interface
+
 
 
 ## Photo Edition & Photoshop
@@ -18,22 +65,7 @@ A collection of free vector silhouettes, shapes and shadows.
 
 * [toshop.free.fr](http://toshop.free.fr/technique/plume.htm)"
 
-## Color pickers
-
-* [Color Scheme Designer 3](http://colorschemedesigner.com/)
-A designer tool for creating color combinations that work together well.
-
-## Inforgraphics tools
-
-* [easel.ly - create Infographics online](http://www.easel.ly)
-
-* [Piktochart- Infographic &amp; Presentation Tool.](http://piktochart.com/)
-Piktochart- Make Information Beautiful. Create infographics. Engaging presentation app.
-
-* [Infographics and charts - interactive data visualization | Infogr.am](http://infogr.am/)
-Infogr.am is world&#39;s simplest visual storytelling app.  It let&#39;s you create infographics and interactive charts in a few minutes.
-
-## Design inspiration
+## Design inspiration example
 
 * [Freebies - Geek Sucks](http://www.geeksucks.com/category/freebies/)
 
@@ -58,7 +90,6 @@ BADGES Web 2.0 Badges - A set of free badges to download and use in your own des
 
 * [Anatomy of Colors in Web Design: Blue and the Cool Look](http://www.onextrapixel.com/2010/01/22/anatomy-of-colors-in-web-design-blue-and-the-cool-look/) One of the most common colors chosen as their favourite is the color blue. It is favoured by both men and women of all ages. We shall see how Blue applies in web design...
 
-* [Blue Color Schemes | Blue Color Combinations | Blue Color Palettes](http://www.colorcombos.com/blue-color-schemes.html) Library of Blue Color Schemes, Color Combinations, Color Palettes - a subset of the color combinations library with blue color swatches.
 
 * [Pixelschupser – Mediendesign | Weil Werbung rockt](http://www.werbungrockt.de/)
 Weil Werbung rock
@@ -127,14 +158,8 @@ Web design is one such genre of art that has a lot of scope for innovation and i
 * [20 Websites with Original, Non-Standard Geometry](http://speckyboy.com/2013/02/03/original-non-standard-geometry/)
 Geometric shapes are widely used as design and framing elements, navigation components or as a way of drawing users&#39; attention to certain parts of a websit
 
-* [0to255](http://0to255.com/)
-
 * [Slapdashing / Inspiration Blog](http://slapdashing.timhultz.com/tagged/packaging)
 Tim Carter&#39;s Graphic Design Inspiration Blog and Stuff. Illustration, Design, Photography, Architecture Cars, Food, Curated by Tim Carter
-
-* [visualsundae](http://visualsundae.com/page/2)
-
-* [Subtle Patterns | Free textures for your next web project](http://subtlepatterns.com/page/2/)
 
 * [Complete Websites | Webdesigntuts+ - Part 4](http://webdesign.tutsplus.com/category/tutorials/complete-websites/page/4/)
 
@@ -145,20 +170,11 @@ Tim Carter&#39;s Graphic Design Inspiration Blog and Stuff. Illustration, Design
 * [The Official Online Marketplace for Creative Services - Unlimited Creativity - BootB](http://bootb.com/en/)
 At BootB, unlimited creativity connects advertising and marketing ideas and solutions with creative design briefs as well as graphic design projects. As the official online marketplace for creative services, BootB acts as a pitching engine to bring together brands and freelance creatives.
 
-* [Create a Palette :: COLOURlovers](http://www.colourlovers.com/palettes/add)
-Use the color picker to create a wonderful color palette and then share it with the world.
 
 * [eighteen25](http://eighteen25.blogspot.com/)
 
 * [Gravity by Disqus - The Web&#39;s Community of Communities](http://disqus.com/gravity/)
 
-* [Dribbble - Popular](http://dribbble.com/)
-
-* [Logopond - Identity Inspiration](http://logopond.com/)
-Logo Pond - Brand and Identity showcase
-
-* [Logo Faves | Logo Inspiration Gallery](http://logofaves.com/)
-Logo Faves - Creative Logos Showcase a Place to Find Most Inspiring Logos and Talented Logo Designers
 
 * [Full Library | Typekit](https://typekit.com/fonts?classification=decorative)
 
@@ -171,16 +187,14 @@ Font Awesome, the iconic font designed for Bootstrap
 * [Google Trends - Hot Searches](https://www.google.com/trends/hottrends/visualize?nrow=10&ncol=10)
 A visualization of the latest hot searches from Google Trends.
 
-* [Loaders and Spinners - a collection by Tim Holman - CodePen](http://codepen.io/collection/HtAne/2)
-
-* [Cloud.typography Fonts | Webfonts by H&amp;FJ](http://www.typography.com/cloud/the-fonts/#ssm-dynamic-range)
+* [CodePen](http://codepen.io) Online HTML/CSS/JS editor with a nice selection of works
 
 * [FlatDSGN - Freebies and Inspiration Resources in the Flat Design](http://flatdsgn.com/)
 Freebies and Inspiration Resources in the Flat Design
 
 * [Co-Operation Hub](http://www.cooperationhub.com/)
 
-* [GoodUI](http://goodui.org/)
+
 
 * [Very nice sites | Best web design 2013 | Beautiful websites 2013](http://www.verynicesites.com/page/6)
 Very nice sites is a curated showcase of awesome web designs. Updated daily with new sites to get your inspiration started.
@@ -188,7 +202,7 @@ Very nice sites is a curated showcase of awesome web designs. Updated daily with
 * [Life360 - The New Family Circle](http://www.life360.com/)
 Welcome to the new family circle. Life360 is a family locator, messaging tool and communication app all in one.
 
-* [InK - Interface Kit](http://ink.sapo.pt/)
+
 
 * [35 Beautiful Typefaces for Minimal Web Design Use - Designmodo](http://designmodo.com/typefaces-minimal-web-design/)
 
@@ -336,15 +350,6 @@ Optimize your conversion rate in minutes by running an AB Test, Split Test or Mu
 
 * [Udacity | Free Online Courses. Advance your College Education &amp; Career](http://www.udacity.com/)
 Learn. Think. Do. Free Online Classes in Programming, Computer Science, Math, Sciences and Entrepreneurship from Top University and Industry Instructors.
-
-* [MinimalWall | Your Desktop, simplified.](http://www.minimalwall.com/page/2/)
-MinimalWall – Your Desktop, simplified. MinimalWall features truly minimal desktop wallpapers with Basic Colors, Mindful Words and Minimal Graphics, for your simplified, motivative computer experience, on topics like Minimalism &amp; Simplicity, Personal Development &amp; Motivation, Productivity &amp; GTD.
-
-* [Current Deals - Crowd Seats](http://www.crowdseats.com/deal/all)
-Crowd Seats gets you in the crowd with tickets to your favorite sporting events at 50-90% off with NO added fees.
-
-* [Tickets at StubHub! Where Fans Buy and Sell Tickets](http://www.stubhub.com/)
-Buy &amp; Sell Concert Tickets, Sports Tickets, Theater Tickets and Broadway Tickets at StubHub!
 
 * [Prezi - Ideas matter.](http://prezi.com/index/)
 Prezi is a cloud-based presentation software that opens up a new world between whiteboards and slides. The zoomable canvas makes it fun to explore ideas and the connections between them. The result: visually captivating presentations that lead your audience down a path of discovery.
