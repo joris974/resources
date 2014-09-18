@@ -32,73 +32,108 @@
 
 ## Charts
 
-* RaphaelJS
-* Google Chart
+* [RaphaelJS](http://raphaeljs.com/) JS library to make awesome charts
+* [Google Chart](https://developers.google.com/chart/) Most used Chart library, easy to use
 
 ## Fonts
 
 * [Typography](http://www.typography.com/) Large collection of fonts
+* [Typekit](https://typekit.com) Collection of fonts for web
 
 ## CSS Kits
 
-* Bootstraps
+* [Bootstrap](http://getbootstrap.com) Most used Responsive CSS and JS library
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Large and great collection of icons for Bootstrap
 * [InK - Interface Kit](http://ink.sapo.pt/) Responsive CSS Interface Kit
+
+## Javascript library
+
+* [Modernizr](http://modernizr.com/) Javascript Library to detect HTML and CSS version, great for Cross-browser debugging
 
 ## Design Blogs
 
-* [Web 2.0 Design Guide](http://www.webdesignfromscratch.com/web-design/web-2-0-design-style-guide/) Your complete guide to Web 2.0 design style. I talk you through the elements of web2.0 design, and show you how to do web design 2.0
-
-* [Online web design portfolio of Rob Palmer, Creating accessible website design · Branded07](http://www.branded07.com/) Welcome to Branded07, Online Web Design Portfolio of Rob Palmer. Creating accessible website design. Using Web Standards.
-
 * [GoodUI](http://goodui.org/) List of tips for good interface
+* [FlatDSGN](http://flatdsgn.com/) Freebies and Inspiration Resources in the Flat Design
+* [Vandelay Design Blog](http://vandelaydesign.com/blog/) Tips on web design
+* [LAVA 360](http://lava360.com) Articles, tips and free resources for web design
+* [1stWebDesigner](http://www.1stwebdesigner.com/blog/) Tuto, articles and free resources for web design
 
+## Webistes, Blogs and Portfolios with good design of inspiration
 
+* [Portfolio of Rob Palmer](http://www.branded07.com/) Good looking single page portfolio
+* [The Cybertouch](http://www.thecybertouch.co.uk/) Web design agency with inspirating showcases
+* [Pixelschupser](http://pixelschupser-nw.de/) Web agency with a nice design
+* [Catalytic Design](http://www.catalytic-design.com) Web agency with nice design and showcase
 
 ## Photo Edition & Photoshop
 
 * [TutsPs](http://www.tutsps.com) Tutorial on Photoshop (French)
+* [Brusheezy](http://www.brusheezy.com) Tons of free brushes, patterns and textures
+* [All Silhouettes](http://all-silhouettes.com/) A collection of free vector silhouettes, shapes and shadows.
 
-* [Brusheezy](http://www.brusheezy.com) Photoshop Brushes - Brusheezy is a HUGE collection of Photoshop Brushes, Photoshop Patterns, Textures, PSDs, Actions, Shapes, Styles, &amp; Gradients to download, or share!
+## Good websites
 
-* [19 Century Silhouettes | All Silhouettes](http://all-silhouettes.com/)
-A collection of free vector silhouettes, shapes and shadows.
-
-* [toshop.free.fr](http://toshop.free.fr/technique/plume.htm)"
-
-## Design inspiration example
-
-* [Freebies - Geek Sucks](http://www.geeksucks.com/category/freebies/)
-
-* [40 Best Magento Themes](http://www.tripwiremagazine.com/2012/01/best-magento-themes.html)
-Here are some of the best premium and free magento themes that you can choose from.
-
-* [Espadrilles - Canvas Shoes &amp; Summer Shoes | Treadz](http://www.mytreadz.com/eu/)
-Treadz conceives, creates and produces espadrilles and alpargatas shoes for men, women and children. Discover our 2012 range of men and women canvas shoes and summer shoes. Born in Argentina, order online today to help save the threatened forest.
-
-* [Vandelay Design Blog](http://vandelaydesign.com/blog/)
-BADGES Web 2.0 Badges - A set of free badges to download and use in your own designs. Fresh Badge - Quickly generate your own badge. adClustr -
-
-* [Graphics | Design Inspiration. Free Resources &amp; Tutorials](http://lava360.com/category/graphics/) design canvas
-
-* [Base · Twitter Bootstrap](http://twitter.github.com/bootstrap/base-css.html#buttons)
-
-* [WEB DESIGN NORTHERN IRELAND | MAGENTO NORTHERN IRELAND](http://www.thecybertouch.co.uk/) Web design Northern Ireland, specialist in Magento Ecommerce based in Coleraine. Affordable, quality and creative Internet Solutions. Dynamic website design.
-
-* [50 Examples of Modern Single Page Website Designs](http://www.1stwebdesigner.com/inspiration/single-page-website-designs/) Become A Better Web Designer!
-
-* [Beaver Lab | identity + web](http://www.beaverlab.com/#chi_siamo_a) Creiamo siti web e corporate identity. Uniamo la nostra creatività alle vostre idee!
-
-* [Anatomy of Colors in Web Design: Blue and the Cool Look](http://www.onextrapixel.com/2010/01/22/anatomy-of-colors-in-web-design-blue-and-the-cool-look/) One of the most common colors chosen as their favourite is the color blue. It is favoured by both men and women of all ages. We shall see how Blue applies in web design...
+* [Disqus](http://disqus.com/gravity/) Web app to create communities
+* [Co-Operation Hub](http://www.cooperationhub.com/) Exchange your skill
+* [CodePen](http://codepen.io) Online HTML/CSS/JS editor with a nice selection of works
+* [MailChimp](http://mailchimp.com/) Free email marketing service
+* [SurveyMonkey](http://www.surveymonkey.com) Web app helping you create custom surveys in minutes, and then view results graphically and in real time.
+* [cdnjs.com](http://cdnjs.com/) CDN for Javascript and CSS with tons of library
 
 
-* [Pixelschupser – Mediendesign | Weil Werbung rockt](http://www.werbungrockt.de/)
-Weil Werbung rock
+## WireFraming
 
-* [Santa Clarita Web Design - Catalytic Design - Internet Marketing and Website Development](http://www.catalytic-design.com/#our_work)
-Santa Clarita web design and website development for the small and not-so-small business.
+* [Mockingbird](https://gomockingbird.com) Desktop Software to create WireFrames
+* [Balsamiq](http://www.balsamiq.com/) Web app to create and share wireframe
 
-* [12 Tools To Reevaluate And Analyze Your Web Design](http://www.1stwebdesigner.com/design/tools-analyze-web-design/)
-Become A Better Web Designer!
+## Magento Themes
+
+* [40 Best Magento Themes](http://www.tripwiremagazine.com/2012/01/best-magento-themes.html) Free and Premium Themes for Magento
+
+
+## International
+
+* [Free Conference Call International](http://www.freeconferencecall.com/) Organize calls with differents countries for free
+* [The World Clock Meeting Planner](http://www.timeanddate.com/worldclock/meetingtime.html) Best way to see differents time zone to plan a meeting
+* [Google Translate](http://translate.google.fr) Google translating tool
+* [Traveling Mailbox](http://travelingmailbox.com) Create a mailbox that scans your incoming email
+
+## Project managment
+
+* [Scrumwise](http://www.scrumwise.com/) Tool to manage Scrum methods in your team
+* [Asana](https://asana.com/) Great task management
+* [Axosoft](http://www.axosoft.com/) Scrum project Management web app
+
+## E-commerce
+
+* [Etsy](https://www.etsy.com)
+
+## Fun for geeks
+
+* [Fruitbots](http://fruitbots.org/api/api)
+
+## Ruby && Ruby Gems 
+
+* [Confident Ruby](http://www.confidentruby.com/)
+* [charliesome/better_errors · GitHub](https://github.com/charliesome/better_errors) Better error page for Rack apps
+* [banister/binding_of_caller · GitHub](https://github.com/banister/binding_of_caller) Retrieve the binding of a methods
+
+## Crowd Funding
+
+* [Kickstarter](http://www.kickstarter.com/) World's largest funding platform for creative projects.
+* [GoFundMe](http://www.gofundme.com/) Crowdfunding platform to raise money for everything
+* [Peoplefund.it](http://www.peoplefund.it/) The UK's top crowdfunding site
+* [Indiegogo](http://www.indiegogo.com/) Indiegogo is an international crowdfunding platform
+
+
+## Web Security
+* [Zone-H.org - Unrestricted information](http://www.zone-h.org/) List of mass web attacks in real time
+* [Chronology of Data Breaches](http://www.privacyrights.org/data-breach) List of publicly announced data breaches
+* [OWASP - TOP10](https://www.owasp.org/index.php/Top10) Top 10 most common web attacks
+* [EasyWAF](https://www.easywaf.com) Web application Firewall with whitelisting security and CDN acceleration
+* [CloudFlare](https://www.cloudflare.com) Web application Firewall with shared blacklisting rules and CDN acceleration
+
+## To sort
 
 * [50+ Photoshop Tutorials in Designing a Logo | iBrandStudio](http://ibrandstudio.com/tutorials/50-photoshop-tutorials-logo-design)
 Freebies, tutorials, and inspiration resources for identity and brand design.
@@ -171,29 +206,16 @@ Tim Carter&#39;s Graphic Design Inspiration Blog and Stuff. Illustration, Design
 At BootB, unlimited creativity connects advertising and marketing ideas and solutions with creative design briefs as well as graphic design projects. As the official online marketplace for creative services, BootB acts as a pitching engine to bring together brands and freelance creatives.
 
 
-* [eighteen25](http://eighteen25.blogspot.com/)
 
-* [Gravity by Disqus - The Web&#39;s Community of Communities](http://disqus.com/gravity/)
-
-
-* [Full Library | Typekit](https://typekit.com/fonts?classification=decorative)
+## To sort
 
 * [Dear NSA, let me take care of your slides.](http://fr.slideshare.net/EmilandDC/dear-nsa-let-me-take-care-ou)
 Dear NSA, you can do whatever with my data. But not with my eyes. Those slides are hideous.  So here&#39;s a quick revamp of your PRISM slides.
 
-* [Font Awesome Examples](http://fortawesome.github.io/Font-Awesome/examples/)
-Font Awesome, the iconic font designed for Bootstrap
+
 
 * [Google Trends - Hot Searches](https://www.google.com/trends/hottrends/visualize?nrow=10&ncol=10)
 A visualization of the latest hot searches from Google Trends.
-
-* [CodePen](http://codepen.io) Online HTML/CSS/JS editor with a nice selection of works
-
-* [FlatDSGN - Freebies and Inspiration Resources in the Flat Design](http://flatdsgn.com/)
-Freebies and Inspiration Resources in the Flat Design
-
-* [Co-Operation Hub](http://www.cooperationhub.com/)
-
 
 
 * [Very nice sites | Best web design 2013 | Beautiful websites 2013](http://www.verynicesites.com/page/6)
@@ -201,8 +223,6 @@ Very nice sites is a curated showcase of awesome web designs. Updated daily with
 
 * [Life360 - The New Family Circle](http://www.life360.com/)
 Welcome to the new family circle. Life360 is a family locator, messaging tool and communication app all in one.
-
-
 
 * [35 Beautiful Typefaces for Minimal Web Design Use - Designmodo](http://designmodo.com/typefaces-minimal-web-design/)
 
@@ -284,63 +304,19 @@ This article assumes a good knowledge of Rails, Coffeescript, Javascript, and jQ
 * [Ruby · Styleguide · GitHub](https://github.com/styleguide/ruby)
 Build software better, together.
 
-* [cdnjs.com - the missing cdn for javascript and css](http://cdnjs.com/)
-An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap. Speed up your site with cdnjs!
-     
-## Security
-    
 
-* [Zone-H.org - Unrestricted information](http://www.zone-h.org/)
-Zone-H - Unrestricted Information - A global view to the world with a stress on the ITsec
 
-* [Chronology of Data Breaches | Privacy Rights Clearinghouse](http://www.privacyrights.org/data-breach)
 
-* [http://www.zone-h.org/listingnews](http://www.zone-h.org/listingnews)
 
-* [PHP Top 5 - OWASP](https://www.owasp.org/index.php/PHP_Top_5#P1:_Remote_Code_Execution)
 
-* [EasyWAF C2](http://c2.paris.fr.easywaf.com/fr/waf/website?back=rjuoosoq)
-
-* [February OWASP Meeting @ KPMG | Find-and-Meet.com](http://www.find-and-meet.com/events/february-owasp-meeting-kpmg--50a90e52222ba4378f000001/attendees)
-Discover all networking events and people, and connect to them.
-
-* [Corporate Info - Content Security, Network Security | WatchGuard Technologies](http://www.watchguard.com/corporate-info/overview.asp)
-WatchGuard Technologies offers all-in-one extensible content security and XTM network security solutions to companies in order to protect their network from spam, viruses, malware, email-borne threats and more.
-    
-* [700,000 sites on Inmotion Hosting Server hacked by TiGER-M@TE in one shot ! - Hacking News](http://thehackernews.com/2011/09/inmotion-hosting-server-and-trinity-fm.html#_)
-    700,000 sites on Inmotion Hosting Server hacked by TiGER-M@TE in one shot !
-
-    
-## Good Website/webapp
-
-* [Free Conference Call International](http://www.freeconferencecall.com/fcci/accountinfo.aspx?uid=747641)
-
-* [Email Marketing and Email List Manager | MailChimp](http://mailchimp.com/)
-Free email marketing service from MailChimp. Design, send, and track HTML email campaigns with our simple tools. Get a fully functional free account.
-
-* [The World Clock Meeting Planner - Results](http://www.timeanddate.com/worldclock/meetingtime.html?year=2012&month=8&day=3&p1=240&p2=179)
-Results from the Meeting Planner - find a suitable time to call people or meet with multiple people from around the world.
-
-* [Google Translate](http://translate.google.fr)
-
-* [SurveyMonkey - My Surveys](http://www.surveymonkey.com/MySurveys.aspx)
-SurveyMonkey.com is a revolutionary tool to create and publish custom surveys in minutes, and then view results graphically and in real time.
-
-* [Etsy - Articles en brouillon](https://www.etsy.com/your/listings/draft)
-
-* [Scrumwise - The Scrum tool you&#39;ve always wanted](http://www.scrumwise.com/)
-Scrumwise is the Scrum tool you&#39;ve always wanted. It&#39;s intuitive, simple, and realtime.
-
-* [Agile Scrum Project Management Software - Agile Scrum Tool, Help Desk, &amp; Wiki - OnTime](http://www.ontimenow.com/)
-Agile Tool: Scrum Project Management Software with easy drag and drop management, burndown charts, and more. Join thousands of project managers around the world that use OnTime for their help desk, wiki, and scrum project management software every day.
 
 *[bubbl.us - Brainstorm and mind map online](https://bubbl.us/)
 Brainstorm online with bubbl.us. Easily create colorful mindmaps to print or share with others. Almost no learning curve.
 
-* [Balsamiq](http://www.balsamiq.com/)
-Balsamiq Studios is a fast-growing, but still-very-personable software company that aims to make the world a better place by helping people create software that is easier to use. We like to compete on usability and customer service.
 
-* [Mockingbird](https://gomockingbird.com/mockingbird/#)
+
+
+
 
 * [Opinsy: Your Opinion Counts](http://opinsy.com/)
 We&#39;ve created the platform to help you create, promote and express your opinions, beliefs and ideas online. We want to help you change the world, one opinion at a time
@@ -417,10 +393,9 @@ Nerd Fitness: A fitness website for nerds and average Joes.  Helping you lose we
 
 
 * [Bootstrap Zero - Free Bootstrap Templates and Themes](http://bootstrapzero.com/) Bootstrap Zero is a collection of open source Bootstrap themes and templates. Bootstrap designers and developers can use these free templates to kickstart responsive Web development projects.
-    
+
     
 ##Voice recognition
-    
 
 * [Dictation - Online Speech Recognition](http://ctrlq.org/dictation/)
 Dictation is a free online speech recognition software powered by Google Chrome. You can use Dictation to write emails and documents in the browser with your voice
@@ -505,20 +480,6 @@ Your website contain text fields that require user input. Learn how to enable sp
 * [Infographics &amp; Data Visualization | Visual.ly](http://visual.ly/)
     Like infographics and data visualization? Visual.ly is the world&#39;s largest community of infographics and data visualization. Come explore, share, and create.
     
-*##Crowd Funding
-    
-
-* [Kickstarter](http://www.kickstarter.com/)
-Kickstarter is the world&#39;s largest funding platform for creative projects.
-
-* [Raise Money for YOU! Crowdfunding &amp; Online Fundraising Websites!](http://www.gofundme.com/)
-&quot;One of the BEST ways to raise money online&quot; Get your crowdfunding website FREE! Online fundraising for medical expenses, volunteer trips, sports &amp; more!
-
-* [Peoplefund.it - Crowdfunding - Home](http://www.peoplefund.it/)
-The UK&#39;s top crowdfunding site supported by Hugh Fearnley-Whittingstall. ADD or SUPPORT a project today!
-
-* [Indiegogo: An International Crowdfunding Platform to Raise Money](http://www.indiegogo.com/)
-Indiegogo is an international crowdfunding site where anyone can raise money for film, music, art, charity, small businesses, gaming, theater, and more.
 
 * [Welcome | RocketHub](http://www.rockethub.com/)
     
@@ -546,54 +507,42 @@ Indiegogo is an international crowdfunding site where anyone can raise money for
     
 * [Analog helps designers and developers team up on short term projects.](http://analoghq.com/create)
     
-    
 * [Instant Server](http://instantserver.io/) Click the button to get a virtual private server    
 
 * [Miscs](http://html5pattern.com/Miscs)
-    
+
 * [http://html5pattern.com/](http://html5pattern.com/)
     
 * [shit for making websites](http://shitformakingwebsites.com/)
     
 * [Thrillbent - Comics for the rest of us](http://thrillbent.com/)
     THRILLBENT is a digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
-    
-* [Traveling Mailbox](http://travelingmailbox.com)
+
+
 
 * [PHP Frameworks](http://phpframeworks.com/)
 We compare all kinds of PHP frameworks and help you choose the right php framework for your project.
 
 * [You Can Own This Domain | Project94](http://c.org/Web%02Applica.on%02Firewall%02Evalua.on%02Criteria)
     
-    
 * [WebPagetest - Website Performance and Optimization Test](http://www.webpagetest.org/)
     Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
 
-* [Fruitbots](http://fruitbots.org/api/api)
-    
-    
+
+# To sort
+
 * [CloudEdit: A Backbone.js Tutorial with Rails (Part 1)](http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/)
-    
-    
+
 * [Practical Object-Oriented Design in Ruby: An Agile Primer | InformIT](http://www.informit.com/store/practical-object-oriented-design-in-ruby-an-agile-primer-9780321721334)
     Years after the initial release of Ruby on Rails, the chickens are coming home to roost. Suddenly, anyone could write a web application -- and it seems like everyone did. The web is now awash in Ruby applications that were easy to write but are now virtually impossible to change, extend, or grow. This book solves that problem by teaching developers real-world object oriented design techniques specifically focused on Ruby.
-    
 
-    
 * [33 Great Apps And Tools For Marketing Professionals](http://www.forbes.com/sites/allbusiness/2013/10/09/33-great-apps-and-tools-for-marketing-professionals/)
     © AA+W - Fotolia.com Online marketing has undergone a tremendous change since its early days. Where there used to be only backlinks and metadata, there is now a whole new universe of marketing channels. We present our list of 33 apps and tools to simplify your marketing efforts: Client Relations Apps Nimble (www.nimble.com): Manage [...]
-
-## Ruby && Ruby Gems 
-
-* [Confident Ruby](http://www.confidentruby.com/)
-
-* [charliesome/better_errors · GitHub](https://github.com/charliesome/better_errors)
-    better_errors - Better error page for Rack apps
-    
-* [banister/binding_of_caller · GitHub](https://github.com/banister/binding_of_caller)
-    binding_of_caller - Retrieve the binding of a method&#39;s caller in MRI 1.9.2+
-
 * [Docker : The Linux Container Engine - Solomon Hykes (@solomonstre) on Vimeo](http://vimeo.com/72964003)
 Docker est un projet open-source permettant de packager, deployer and lancer n&#39;importe quelle application comme un conteneur léger  Epita - 4 juin 2013
 
 * [The Go Programming Language](http://golang.org/)
+
+
+
+
