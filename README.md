@@ -40,11 +40,15 @@
 * [Typography](http://www.typography.com/) Large collection of fonts
 * [Typekit](https://typekit.com) Collection of fonts for web
 
-## CSS Kits
+## CSS Kits and Snippets
 
 * [Bootstrap](http://getbootstrap.com) Most used Responsive CSS and JS library
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Large and great collection of icons for Bootstrap
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Large and great collection of icons
+* [Bootswatch](http://bootswatch.com) Large selection of Bootstrap themes
+* [Bootsnipp](http://bootsnipp.com/) Collection of Bootstrap Code Snippets and Themes
+* [BootstrapZero](http://bootstrapzero.com/) Collection of Bootstrap Code Snippets and Themes
 * [InK - Interface Kit](http://ink.sapo.pt/) Responsive CSS Interface Kit
+* [UI-Cloud](http://ui-cloud.com) User Interface Design Database
 
 ## Javascript library
 
