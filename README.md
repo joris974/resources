@@ -10,6 +10,7 @@
 * [0to255](http://0to255.com/) Web app to find gradients of a specific color, usefull for hover links
 * [ColorCombos](http://www.colorcombos.com) Great selection of color palettes
 * [COLOURlovers](http://www.colourlovers.com/palettes/add) Great selection of colors, palettes, and patterns
+* [Flat UI Colors](http://flatuicolors.com) Small but good selection of Colors for Flat design UI
 
 ## Backgrounds and Wallpapers
 
@@ -61,6 +62,7 @@
 * [Vandelay Design Blog](http://vandelaydesign.com/blog/) Tips on web design
 * [LAVA 360](http://lava360.com) Articles, tips and free resources for web design
 * [1stWebDesigner](http://www.1stwebdesigner.com/blog/) Tuto, articles and free resources for web design
+* [Designmodo](http://designmodo.com) Free and Paid Design resources and articles
 
 ## Webistes, Blogs and Portfolios with good design of inspiration
 
@@ -68,6 +70,7 @@
 * [The Cybertouch](http://www.thecybertouch.co.uk/) Web design agency with inspirating showcases
 * [Pixelschupser](http://pixelschupser-nw.de/) Web agency with a nice design
 * [Catalytic Design](http://www.catalytic-design.com) Web agency with nice design and showcase
+* [Very nice sites](http://www.verynicesites.com) Large collection of awesome web designs.
 
 ## Photo Edition & Photoshop
 
@@ -107,6 +110,7 @@
 * [Scrumwise](http://www.scrumwise.com/) Tool to manage Scrum methods in your team
 * [Asana](https://asana.com/) Great task management
 * [Axosoft](http://www.axosoft.com/) Scrum project Management web app
+* [bubbl.us](https://bubbl.us/) Easily create colorful mindmaps.
 
 ## E-commerce
 
@@ -116,7 +120,7 @@
 
 * [Fruitbots](http://fruitbots.org/api/api)
 
-## Ruby && Ruby Gems 
+## Ruby && Ruby Gems
 
 * [Confident Ruby](http://www.confidentruby.com/)
 * [charliesome/better_errors · GitHub](https://github.com/charliesome/better_errors) Better error page for Rack apps
@@ -131,11 +135,42 @@
 
 
 ## Web Security
+
 * [Zone-H.org - Unrestricted information](http://www.zone-h.org/) List of mass web attacks in real time
 * [Chronology of Data Breaches](http://www.privacyrights.org/data-breach) List of publicly announced data breaches
 * [OWASP - TOP10](https://www.owasp.org/index.php/Top10) Top 10 most common web attacks
 * [EasyWAF](https://www.easywaf.com) Web application Firewall with whitelisting security and CDN acceleration
 * [CloudFlare](https://www.cloudflare.com) Web application Firewall with shared blacklisting rules and CDN acceleration
+
+
+
+## Online Education
+
+* [Khan Academy](https://www.khanacademy.org/) Awesome website containing huge library of videos to learn anything
+* [Coursera](https://www.coursera.org/) Learning platform
+* [Udacity](http://www.udacity.com/) Free Online Classes in Programming, Computer Science, Math, Sciences and Entrepreneurship.
+
+## System Administration
+
+* [Instant Server](http://instantserver.io/) Click the button to get a virtual private server
+
+## Other
+
+* [HTML5 Pattern](http://html5pattern.com/) List of useful Regex
+
+## Art
+
+* [Peter Lik USA - Fine Art Photographer and Luxury Photography](http://www.lik.com/) Great Photograph
+* [Интернет-галерея живописи - картины, живопись, репродукции • Gallerix.ru](http://gallerix.ru/) Great collection of Painting
+
+## Social Networks
+
+* [AngelList](https://angel.co/) Social Network to connect with Startup, very good to find a job
+* [HootSuite](http://hootsuite.com/) Tool to manage different social network channels all in one
+
+## Analyzing
+
+* [Crazy Egg](http://www.crazyegg.com/) Heat map of your page with visitor data.
 
 ## To sort
 
@@ -209,26 +244,12 @@ Tim Carter&#39;s Graphic Design Inspiration Blog and Stuff. Illustration, Design
 * [The Official Online Marketplace for Creative Services - Unlimited Creativity - BootB](http://bootb.com/en/)
 At BootB, unlimited creativity connects advertising and marketing ideas and solutions with creative design briefs as well as graphic design projects. As the official online marketplace for creative services, BootB acts as a pitching engine to bring together brands and freelance creatives.
 
-
-
-## To sort
-
 * [Dear NSA, let me take care of your slides.](http://fr.slideshare.net/EmilandDC/dear-nsa-let-me-take-care-ou)
 Dear NSA, you can do whatever with my data. But not with my eyes. Those slides are hideous.  So here&#39;s a quick revamp of your PRISM slides.
-
-
 
 * [Google Trends - Hot Searches](https://www.google.com/trends/hottrends/visualize?nrow=10&ncol=10)
 A visualization of the latest hot searches from Google Trends.
 
-
-* [Very nice sites | Best web design 2013 | Beautiful websites 2013](http://www.verynicesites.com/page/6)
-Very nice sites is a curated showcase of awesome web designs. Updated daily with new sites to get your inspiration started.
-
-* [Life360 - The New Family Circle](http://www.life360.com/)
-Welcome to the new family circle. Life360 is a family locator, messaging tool and communication app all in one.
-
-* [35 Beautiful Typefaces for Minimal Web Design Use - Designmodo](http://designmodo.com/typefaces-minimal-web-design/)
 
 * [Animatable: One property, two values, endless possiblities](http://leaverou.github.io/animatable/)
 
@@ -308,18 +329,7 @@ This article assumes a good knowledge of Rails, Coffeescript, Javascript, and jQ
 * [Ruby · Styleguide · GitHub](https://github.com/styleguide/ruby)
 Build software better, together.
 
-
-
-
-
-
-
-*[bubbl.us - Brainstorm and mind map online](https://bubbl.us/)
-Brainstorm online with bubbl.us. Easily create colorful mindmaps to print or share with others. Almost no learning curve.
-
-
-
-
+* [Life360 - The New Family Circle](http://www.life360.com/) Life360 is a family locator, messaging tool and communication app all in one.
 
 
 * [Opinsy: Your Opinion Counts](http://opinsy.com/)
@@ -328,8 +338,7 @@ We&#39;ve created the platform to help you create, promote and express your opin
 * [Optimizely: A/B testing software you&#39;ll actually use](https://www.optimizely.com/)
 Optimize your conversion rate in minutes by running an AB Test, Split Test or Multivariate Testing with Optimizely!
 
-* [Udacity | Free Online Courses. Advance your College Education &amp; Career](http://www.udacity.com/)
-Learn. Think. Do. Free Online Classes in Programming, Computer Science, Math, Sciences and Entrepreneurship from Top University and Industry Instructors.
+
 
 * [Prezi - Ideas matter.](http://prezi.com/index/)
 Prezi is a cloud-based presentation software that opens up a new world between whiteboards and slides. The zoomable canvas makes it fun to explore ideas and the connections between them. The result: visually captivating presentations that lead your audience down a path of discovery.
@@ -352,7 +361,6 @@ The easy way to create and share extraordinary videos of your life. Our online v
 *[deviantART: where ART meets application!](http://www.deviantart.com/)
 Art - community of artists and those devoted to art. Digital art, skin art, themes, wallpaper art, traditional art, photography, poetry / prose. Art prints.
 
-* [Components · Bootstrap](http://twitter.github.com/bootstrap/components.html)
 
 * [HTML5 Boilerplate: The web&#39;s most popular front-end template](http://html5boilerplate.com/)
 HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites. Spend more time developing and less time reinventing the wheel.
@@ -372,8 +380,6 @@ Pivotdesk helps startups and small businesses find affordable, short-term office
 * [Invoice-o-matic&#39;s Free Invoice Template - Send an invoice now](http://invoiceomatic.io/)
 Invoice-o-matic is a free online invoice tool - just enter your details into the invoice template and it sends a PDF copy directly to your client&#39;s inbox and your own.  All for free, no strings.
 
-* [Crazy Egg - Visualize where your visitors click](http://www.crazyegg.com/)
-Through Crazy Egg’s heat map and scroll map reports you can get an understanding of how your visitors engage with your website so you can boost your conversion rates.
 
 * [Leaflet - a JavaScript library for mobile-friendly maps](http://leafletjs.com/)
 
@@ -395,10 +401,6 @@ Nerd Fitness: A fitness website for nerds and average Joes.  Helping you lose we
 
 * [Pact - Commit to you.](http://www.gympact.com/)
 
-
-* [Bootstrap Zero - Free Bootstrap Templates and Themes](http://bootstrapzero.com/) Bootstrap Zero is a collection of open source Bootstrap themes and templates. Bootstrap designers and developers can use these free templates to kickstart responsive Web development projects.
-
-    
 ##Voice recognition
 
 * [Dictation - Online Speech Recognition](http://ctrlq.org/dictation/)
@@ -408,56 +410,38 @@ Dictation is a free online speech recognition software powered by Google Chrome.
 Your website contain text fields that require user input. Learn how to enable speech recognition for these fields using the speech input tags of HTML5.
 
 ## Personal websites
-    
-* [x10Hosting Account Panel](https://x10hosting.com/control/login.php)
-    
-* [Colliers du monde »](http://buchouvea.elementfx.com/creation/)
-    
+
+* [x10Hosting Account Panel](https://x10hosting.com)
 * [cPanel X](https://boru.x10hosting.com:2083/frontend/x3/ftp/accounts.html)
-    
+
 * [Colliers du Monde :: Accueil](http://colliersdumonde.comli.com/)
-    
-* [Le Codeur Malin › Se connecter](http://lecodeurmalin.com/wp/wp-login.php)
-    
-* [Bienvenue sur Le Codeur Malin | Le Codeur Malin](http://lecodeurmalin.com/wp/bienvenue-sur-le-codeur-malin/)
-    
-## Fly comparaion
+
+## Flight comparaion
 * [eDreams](http://www.edreams.com)
     eDreams, spécialiste des vols pas chers et nº1 en Espagne, recherche, pour vous, des vols moins chers parmi toutes les compagnies aériennes, low cost y compris
-    
+
 * [InterWorx-CP :: MySQL Database Management](https://panel.freehostingcloud.com/siteworx/mysql/db)
-    
+
 * [FundingUniverse](http://www.fundinguniverse.com/sample-business-plans/?plan=Ice%20Cream%20Shop)
     FundingUniverse
-    
-* [The Frozen Yogurt Business Plan - Updated for 2012!](http://frozenyogurtbusinessplan.com/)
-    A simple fill-in-the-blank business plan written specifically for the frozen yogurt business.
-    
-* [#229 Polling for Changes - RailsCasts](http://railscasts.com/episodes/229-polling-for-changes?autoplay=true)
-    Short Ruby on Rails screencasts containing tips, tricks and tutorials. Great for both novice and experienced web developers.
-    
-* [the { buckblogs :here }: Nesting resources](http://weblog.jamisbuck.org/2007/2/5/nesting-resources)
-    
-* [Hosting Control Center](https://hostingmanager.secureserver.net/AccountPanel.aspx?ci=23410&accountUID=c651fdd3-8fe4-11e1-8362-f04da2069d31)
-    
+
+## Rails
+* [RailsCasts](http://railscasts.com) Best screencasts by Ryan Bates
+
+
 * [Freemium Pricing for SaaS: Optimizing Paid Conversion Upgrades](http://onstartups.com/tabid/3339/bid/84427/Freemium-Pricing-for-SaaS-Optimizing-Paid-Conversion-Upgrades.aspx)
     This article explores the important topic of free to paid conversions when using a freemium pricing model in SaaS companies.
-    
+
 * [Breakout Incomes™](https://www.powersellsecrets.com/b/cc_99.php)
     
 * [Tree-Nation » Plantez des arbres pour lutter contre les changements climatiques](http://www.tree-nation.com/plant)
     Tree-Nation est le réseau social qui plante des arbres. Plus de 90 000 membres  et des centaines d’entreprises se regroupent pour apporter leur soutien à des projets de reforestation visant à lutter contre les changements climatiques, la déforestation et la pauvreté.
     
-* [Your page is saved](http://pastehtml.com/upload/create)
-    Beautifully simple and free HTML hosting. Paste your HTML code, plain text or Markdown and it will be hosted for free, no registration required.
+* [Paste HTML](http://pastehtml.com) Beautifully simple and free HTML hosting. Paste your HTML code, plain text or Markdown and it will be hosted for free, no registration required.
     
 * [HTML Mail - Send HTML Emails Online](http://ctrlq.org/html-mail/)
     Use HTML Mail to compose email messages in rich HTML text (with images) and send them online.
-    
-* [DNS Security Solutions From SafeNet Inc](http://www.safenet-inc.com/solutions/data-protection/dns-security/)
-    SafeNet hardware security modules (HSMs) meet the demanding requirements for robust DNS security and availability required to ensure integrity of the domain name space.
-    
-*[gateProtect Cost benefit analysis](http://www.gateprotect.com/uk/kna/index.php)
+
     
 * [Meet Jenkins - Jenkins - Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
     
@@ -471,52 +455,29 @@ Your website contain text fields that require user input. Learn how to enable sp
 * [The Internet Marketing List: 59 Things You Should Be Doing But Probably Aren’t – Portent](http://www.portent.com/blog/internet-marketing/the_internet_marketing_list_59.htm)
     
 * [Hacker News](http://news.ycombinator.com/)
-        
-* [AngelList](https://angel.co/)
-    AngelList is a platform for startups
-    
-## Art 
 
-* [Peter Lik USA - Fine Art Photographer and Luxury Photography](http://www.lik.com/)
 
-* [Интернет-галерея живописи - картины, живопись, репродукции • Gallerix.ru](http://gallerix.ru/)
-    
 * [Infographics &amp; Data Visualization | Visual.ly](http://visual.ly/)
     Like infographics and data visualization? Visual.ly is the world&#39;s largest community of infographics and data visualization. Come explore, share, and create.
-    
+
 
 * [Welcome | RocketHub](http://www.rockethub.com/)
-    
+
 * [7 Best Practices for Improving Your Website&#39;s Usability](http://mashable.com/2011/09/12/website-usability-tips/)
     The Web Design Usability Series is supported by join.me, an easy way to instantly share your screen with anyone. join.me lets you collaborate on-the-fly, put your heads together...
-    
-* [HootSuite](http://hootsuite.com/dashboard#/)
-    
-* [Khan Academy](https://www.khanacademy.org/)
-    With a library of over 3,000 videos covering everything from arithmetic to physics, finance, and history and hundreds of skills to practice, we&#39;re on a mission to help you learn what you want, when you want, at your own pace.
-    
-* [Coursera](https://www.coursera.org/)
-    
+
+
+
 * [This picture says the opposite.](http://s7.postimg.org/gzcgg357f/Gfhds.jpg)
     
 * [100 Websites You Should Know and Use - StumbleUpon](http://www.stumbleupon.com/su/AhYmb6/:mk90!J!G:l1Ds9bnv/blog.ted.com/2007/08/03/100_websites_yo/)
-    
-* [Half Price Tour Tickets - Shopping Cart](http://www.halfpricetourtickets.com/cart.php)
-    Want to experience the best of Miami? Join us on a Miami or Everglades Tour and experience the city like a native. Call (305) 444-0707 or click to Save.
     
 * [Keynote: Architecture the Lost Years - Robert Martin - Ruby Midwest 2011](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
     Expert recording and networking
       services for conferences, seminars
       and workshops.
-    
-* [Analog helps designers and developers team up on short term projects.](http://analoghq.com/create)
-    
-* [Instant Server](http://instantserver.io/) Click the button to get a virtual private server    
 
-* [Miscs](http://html5pattern.com/Miscs)
 
-* [http://html5pattern.com/](http://html5pattern.com/)
-    
 * [shit for making websites](http://shitformakingwebsites.com/)
     
 * [Thrillbent - Comics for the rest of us](http://thrillbent.com/)
