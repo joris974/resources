@@ -23,6 +23,7 @@
 * [easel.ly](http://www.easel.ly) Web app to create infographics
 * [Piktochart](http://piktochart.com/) Web app to create infographics
 * [Infogr.am](http://infogr.am/) Create infographics, nice and interactive charts
+* [Visual.ly](http://visual.ly/) Visual.ly is the world's largest community of infographics and data visualization.
 
 ## Inspiration
 
@@ -54,6 +55,7 @@
 ## Javascript library
 
 * [Modernizr](http://modernizr.com/) Javascript Library to detect HTML and CSS version, great for Cross-browser debugging
+* [Animatable](http://leaverou.github.io/animatable/) Nice collection of JS Animations
 
 ## Design Blogs
 
@@ -63,6 +65,9 @@
 * [LAVA 360](http://lava360.com) Articles, tips and free resources for web design
 * [1stWebDesigner](http://www.1stwebdesigner.com/blog/) Tuto, articles and free resources for web design
 * [Designmodo](http://designmodo.com) Free and Paid Design resources and articles
+* [Pineapple](http://pineapple.io) Tutorials on design
+* [Hack Design](http://hackdesign.org) Tutorials on design
+* [Designers List](http://www.designerslist.info/) Links gallery of useful websites
 
 ## Webistes, Blogs and Portfolios with good design of inspiration
 
@@ -71,6 +76,8 @@
 * [Pixelschupser](http://pixelschupser-nw.de/) Web agency with a nice design
 * [Catalytic Design](http://www.catalytic-design.com) Web agency with nice design and showcase
 * [Very nice sites](http://www.verynicesites.com) Large collection of awesome web designs.
+* [ThemeForest](http://themeforest.net) Site template for CMS
+* [Sallee Design](http://salleedesign.com/) Nice Portefolio
 
 ## Photo Edition & Photoshop
 
@@ -86,7 +93,10 @@
 * [MailChimp](http://mailchimp.com/) Free email marketing service
 * [SurveyMonkey](http://www.surveymonkey.com) Web app helping you create custom surveys in minutes, and then view results graphically and in real time.
 * [cdnjs.com](http://cdnjs.com/) CDN for Javascript and CSS with tons of library
-
+* [Wordle - Compose](http://www.wordle.net) Create Cloud Messages
+* [Skilly](http://www.skilly.com) Write the best code to win prizes
+* [Opinsy](http://opinsy.com/) Fun opinion platform
+* [Prezi](http://prezi.com/) Prezi is a cloud-based presentation software.
 
 ## WireFraming
 
@@ -115,16 +125,11 @@
 ## E-commerce
 
 * [Etsy](https://www.etsy.com)
+* [JuicyCanvas](http://juicycanvas.com/) JuicyCanvas is a fun new way to create your own Customized Fine Art Print, Stretched Canvas, T-Shirt, and more!
 
 ## Fun for geeks
 
 * [Fruitbots](http://fruitbots.org/api/api)
-
-## Ruby && Ruby Gems
-
-* [Confident Ruby](http://www.confidentruby.com/)
-* [charliesome/better_errors · GitHub](https://github.com/charliesome/better_errors) Better error page for Rack apps
-* [banister/binding_of_caller · GitHub](https://github.com/banister/binding_of_caller) Retrieve the binding of a methods
 
 ## Crowd Funding
 
@@ -132,6 +137,7 @@
 * [GoFundMe](http://www.gofundme.com/) Crowdfunding platform to raise money for everything
 * [Peoplefund.it](http://www.peoplefund.it/) The UK's top crowdfunding site
 * [Indiegogo](http://www.indiegogo.com/) Indiegogo is an international crowdfunding platform
+* [RocketHub](http://www.rockethub.com/) Another Crowdfunding platform
 
 
 ## Web Security
@@ -142,13 +148,17 @@
 * [EasyWAF](https://www.easywaf.com) Web application Firewall with whitelisting security and CDN acceleration
 * [CloudFlare](https://www.cloudflare.com) Web application Firewall with shared blacklisting rules and CDN acceleration
 
-
-
 ## Online Education
 
 * [Khan Academy](https://www.khanacademy.org/) Awesome website containing huge library of videos to learn anything
 * [Coursera](https://www.coursera.org/) Learning platform
 * [Udacity](http://www.udacity.com/) Free Online Classes in Programming, Computer Science, Math, Sciences and Entrepreneurship.
+* [TutorialsPoint](http://www.tutorialspoint.com) Large collection of tutorials about everything
+* [Launch Academy](http://www.launchacademy.com) Code Learning Platform
+
+## Performances
+
+* [WebPagetest](http://www.webpagetest.org/) Great website to see your website loading page in details
 
 ## System Administration
 
@@ -160,6 +170,7 @@
 
 ## Art
 
+* [Curioos](http://www.curioos.com/#) High-quality art prints & accessories designed by top talented artists around the world.
 * [Peter Lik USA - Fine Art Photographer and Luxury Photography](http://www.lik.com/) Great Photograph
 * [Интернет-галерея живописи - картины, живопись, репродукции • Gallerix.ru](http://gallerix.ru/) Great collection of Painting
 
@@ -167,44 +178,56 @@
 
 * [AngelList](https://angel.co/) Social Network to connect with Startup, very good to find a job
 * [HootSuite](http://hootsuite.com/) Tool to manage different social network channels all in one
+* [Pagemodo](http://www.pagemodo.com) Pagemodo is a service to create and design custom Facebook Pages.
 
 ## Analyzing
 
 * [Crazy Egg](http://www.crazyegg.com/) Heat map of your page with visitor data.
+* [Optimizely](https://www.optimizely.com/) AB Test Testing
+
+## News
+
+* [Hacker News](http://news.ycombinator.com/)
+* [Techmeme](http://www.techmeme.com/) Techmeme spotlights the moment's hottest tech stories on a single page.
+
+
+## Rails
+
+* [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org) I learned Rails with this website
+* [RailsCasts](http://railscasts.com) Best screencasts by Ryan Bates
+* [RubySource](http://rubysource.com/) Fresh thinking for Ruby on Rails Development
+* [RailsApps](http://railsapps.github.io) Tutorials on Rails 3 and 4
+* [Categories and Sub-Categories in Rails](http://stackoverflow.com/questions/14197897/categories-and-sub-categories-model-rails) Best way to handle Categories in Rails
+* [Kansas City on Rails](http://kconrails.com) Blog containing usefull guides for common rails issues
+* [Ruby StyleGuide](https://github.com/styleguide/ruby) Styleguide for Ruby
+
+## Rails Gems I Love
+
+* [Cancan](https://github.com/ryanb/cancan) Authorization Gem for Ruby on Rails
+* [Devise](https://github.com/plataformatec/devise) Authentication solution for Rails.
+* [Paperclip](https://github.com/thoughtbot/paperclip) File attachment management gem. Great for avatar picture or photos linked to a Model.
+* [Chartkick](https://github.com/ankane/chartkick) Charts Gem
+* [charliesome/better_errors · GitHub](https://github.com/charliesome/better_errors) Better error page for Rack apps
+* [banister/binding_of_caller · GitHub](https://github.com/banister/binding_of_caller) Retrieve the binding of a methods
+
+## HTML5
+
+* [iio Engine](http://iioengine.com/) iio Engine is an HTML5 framework on HTML5 canvas.
+
+## JQuery Plugins
+
+* [Unheap](http://www.unheap.com) A tidy repository of jQuery plugins
+
 
 ## To sort
-
-* [50+ Photoshop Tutorials in Designing a Logo | iBrandStudio](http://ibrandstudio.com/tutorials/50-photoshop-tutorials-logo-design)
-Freebies, tutorials, and inspiration resources for identity and brand design.
-
-* [Les outils du Web 2.0 | Scoop.it](http://www.scoop.it/t/les-outils-du-web-2-0)
-Opinsy est une plateforme pour lancer des débats en ligne et exprimer son opinion.
-
-* [Custom Facebook Fan Page Pricing - Pagemodo](http://www.pagemodo.com/pricing)
-Pagemodo is a free service to create and design custom Facebook Pages. We offer paid plans for Businesses and Agencies to take Fan Pages to the next level.
-
-* [Designers&#39; List - Great resources and websites for designers.](http://www.designerslist.info/)
-All your favorite links in one place! Websites related to web design, fonts, galleries, icons, stock photos, logo design and more.
-
-* [Complete Beginner’s Guide to Interaction Design | Hack Design](http://hackdesign.org/link/complete-beginners-guide-to-interaction-design/)
 
 * [15 Excellent Logo Design Tutorials Using Illustrator](http://sixrevisions.com/graphics-design/15-excellent-logo-design-tutorials-using-illustrator/)
 In this collection, you will find 15 hand-picked tutorials from a variety of talented graphic designers and illustrators that discuss the logo creation process using Illustrator.
 
-* [50 exemples et idées pour créer son logo | Publiz - Inspiration graphique et publicité créative](http://www.publiz.net/2011/01/25/50-exemples-et-idees-pour-creer-son-logo/)
-Toute l\&#39;inspiration graphique et la créativité publicitaire : Affiche de publicité, logo, packaging, photographie, illustration,  vidéo.
-
-* [Shopper - Magento Theme, Responsive &amp; Retina Ready Preview - ThemeForest](http://themeforest.net/item/shopper-magento-theme-responsive-retina-ready/full_screen_preview/3139960?ref=lvraa&ref=lvraa&clickthrough_id=105754437&redirect_back=true)
-&amp;lt;a href=&amp;quot;http://queldorei.com/faq.html&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://shopper.queldore...
-
-* [Free infographic app | Piktochart](http://piktochart.com/product-features/)
-Create free infographics using an infographic application or software here. Piktochart has a professional infographic design editor that helps you with the design work.
 
 * [What’s New in Drupal 7 | Nettuts+](http://net.tutsplus.com/tutorials/whats-new-in-drupal-7/)
 Drupal is one of the most popular content management systems (CMS) out there. To mark the new year, Drupal 7, the next major version of Drupal, is being
 
-* [Sallee Design](http://salleedesign.com/home/)
-Hello, my name is Jeremy and I am a web and graphic designer. I am into clean, modern and usable design. My experience consists of both Photoshop design and coding. I generally code all my designs using component management systems such as drupal or wordpress, static html/css, and flash action script coding. I enjoy spending a lot of time creating original designs in Photoshop and exploring new programming techniques. The result is numerous icons, wallpapers, and wordpress themes, among other products. I&#39;m also addicted to photography and I spend most of my free time taking pictures and exploring this form of art.
 
 * [25 Free WordPress Portfolio Themes for Photographers | WPLift](http://wplift.com/25-free-wordpress-portfolio-themes-for-photographers)
 25 Free WordPress Portfolio Themes for Photographers » WPLift | WordPress Blog, Themes, Plugins &amp; Tutorials.
@@ -251,10 +274,9 @@ Dear NSA, you can do whatever with my data. But not with my eyes. Those slides a
 A visualization of the latest hot searches from Google Trends.
 
 
-* [Animatable: One property, two values, endless possiblities](http://leaverou.github.io/animatable/)
-
 ## Resources Dev
 
+* [Code Review Stack Exchange](http://codereview.stackexchange.com/)
 * [Zend Framework Tutorial: Quickstart (2) - YouTube](http://www.youtube.com/watch?v=BOwSfKXKpZQ&feature=relmfu)
 Im using version 1.11. After installing Zend Framework, follow this tutorial to see how we do some basic things like makes controllers and layouts. http://jr...
 
@@ -263,22 +285,6 @@ Im using version 1.11. After installing Zend Framework, follow this tutorial to 
 * [Comment gerer l&#39;authentification sur une application Zend Framework | LyRiXx Blog](http://blog.lyrixx.info/zend/gerer-lauthentification-avec-zend_auth-du-zend-framework/)
 Comment faire une formulaire de login avec le zend framework ? Comment utiliser Zend_Auth ?
 
-* [Ma première application Ruby On Rails at Stoneageblog.com](http://www.stoneageblog.com/articles/2007/03/04/ma-premiere-application-ruby-on-rails/)
-Le blog [de l&#39;âge] de Pierre
-
-* [Tutoriel Ruby on Rails : Apprendre Rails par l&#39;exemple | Le livre Tutoriel Ruby on Rails 3 and screencasts | par Michael Hartl](http://french.railstutorial.org/chapters/beginning#sec:bundler)
-Ruby on Rails Tutorial: Learn Rails by Example by Michael Hartl
-
-* [ruby on rails - Gemfile.lock not checked in - Heroku - Stack Overflow](http://stackoverflow.com/questions/4258327/gemfile-lock-not-checked-in-heroku)
-
-* [Rails Database Setup](http://www.tutorialspoint.com/ruby-on-rails/rails-database-setup.htm)
-Database Setup - Learn Ruby on Rails in simple and easy steps. You will learn its installation, framework, strengths with examples and you will learn about actionpack, actionview, activerecord, Heinemeier, Scaffolding, Controller, Heinemeier, Hansson, Rakefile etc.
-
-* [Associations polymorphiques](http://ontherailsagain.com/articles/associations-polymorphiques)
-L&#39;association polymorphique peut sembler compliquée et déroutante. En regardant d&#39;un peu plus près, son utilisation n&#39;est pas si difficile et peut être très utile ! C&#39;est une association qui permet à un modèle d&#39;appartenir à plusieurs autres modèles.
-
-* [RubySource | How to Customize Twitter Bootstrap’s Design in a Rails appRubySource](http://rubysource.com/how-to-customize-twitter-bootstrap%E2%80%99s-design-in-a-rails-app/)
-RubySource | Fresh thinking for Ruby on Rails Development. Learn - Ruby Tutorials, Rails Migration, Ruby Gems, Test Driven Development - TDD and much more
 
 * [Building a Website with PHP, MySQL and jQuery Mobile, Part 1 | Tutorialzine](http://tutorialzine.com/2011/08/jquery-mobile-product-website/)
 This is the first of a two-part tutorial, in which we will be building a simple computer shop website with PHP, MySQL and jQuery Mobile using the Model-View-Controller (MVC) pattern.
@@ -288,75 +294,18 @@ This is the first of a two-part tutorial, in which we will be building a simple 
 * [Experimenting With jQuery&#39;s Queue() And Dequeue() Methods](http://www.bennadel.com/blog/1864-Experimenting-With-jQuery-s-Queue-And-Dequeue-Methods.htm)
 Ben Nadel explores jQuery&#39;s queuing mechanism and how to manage a custom queue with the queue() and dequeue() methods.
 
-* [Rails 3 Paperclip Avatar to User (Devise) | OpenSource! Just it](http://lookmee.wordpress.com/2011/04/06/rails-3-paperclip-avatar-to-user-devise/)
-Build Knowledge Sharing Center for who love Linux and Open Source
-
-* [ryanb/cancan · GitHub](https://github.com/ryanb/cancan)
-Authorization Gem for Ruby on Rails. Contribute to cancan development by creating an account on GitHub.
-
-* [plataformatec/devise](https://github.com/plataformatec/devise)
-devise - Flexible authentication solution for Rails with Warden.
-
-* [iio Engine · Tutorials](http://iioengine.com/tutorials/)
-The iio Engine is an extensive HTML5 framework for interactive web application development.
-
-* [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/page/2/)
-
-* [Rails SEO pack: 5 plugins to optimize your site](http://lassebunk.dk/2011/03/09/rails-seo-pack/)
-Five Ruby on Rails plugins and techniques to improve your SEO.
-
-* [Chartkick](http://ankane.github.io/chartkick/)
-
-* [Riding Rails: Rails 4.0: Final version released!](http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/)
-
-* [categories and sub-categories model rails - Stack Overflow](http://stackoverflow.com/questions/14197897/categories-and-sub-categories-model-rails)
-
-* [Rails Heroku Tutorial · RailsApps](http://railsapps.github.io/rails-heroku-tutorial.html)
-
-* [Nested Comments in Ruby on Rails, part 2: Controllers and Views | Kansas City on Rails](http://kconrails.com/2011/01/26/nested-comments-in-ruby-on-rails-controllers-and-views/)
-Adventures of Jaime Bellmyer, A Freelance Ruby on Rails Developer in Kansas City
-
-* [Code Review Meta Stack Exchange](http://meta.codereview.stackexchange.com/)
-
-* [About · Pineapple](http://pineapple.io/about/?utm_source=hn)
-
 * [BackboneRails.com - #1. Building Dialogs with Custom Regions](http://www.backbonerails.com/screencasts/building-dialogs-with-custom-regions)
 Integrating dialogs and modals into a Backbone.js application using jQuery UI
 
-* [Backbone and Marionette on Rails](http://www.launchacademy.com/codecabulary/learn-javascript/backbone/marionette-applications)
-This article assumes a good knowledge of Rails, Coffeescript, Javascript, and jQuery, but little-to-no knowledge of Backbone and Marionette. We&#39;ll be mo...
+* [Life360](http://www.life360.com/) Life360 is a family locator, messaging tool and communication app all in one.
 
-* [Ruby · Styleguide · GitHub](https://github.com/styleguide/ruby)
-Build software better, together.
-
-* [Life360 - The New Family Circle](http://www.life360.com/) Life360 is a family locator, messaging tool and communication app all in one.
-
-
-* [Opinsy: Your Opinion Counts](http://opinsy.com/)
-We&#39;ve created the platform to help you create, promote and express your opinions, beliefs and ideas online. We want to help you change the world, one opinion at a time
-
-* [Optimizely: A/B testing software you&#39;ll actually use](https://www.optimizely.com/)
-Optimize your conversion rate in minutes by running an AB Test, Split Test or Multivariate Testing with Optimizely!
-
-
-
-* [Prezi - Ideas matter.](http://prezi.com/index/)
-Prezi is a cloud-based presentation software that opens up a new world between whiteboards and slides. The zoomable canvas makes it fun to explore ideas and the connections between them. The result: visually captivating presentations that lead your audience down a path of discovery.
 
 * [Brand to Retailer Marketing from Promoboxx](http://www.promoboxx.com/)
 
-* [Techmeme](http://www.techmeme.com/) The web&#39;s technology news site of record, Techmeme spotlights the moment&#39;s hottest tech stories on a single page.
-
-* [JuicyCanvas, Customizable Art &amp; T-Shirts](http://juicycanvas.com/)
-JuicyCanvas is a fun new way to create your own Customized Fine Art Print, Stretched Canvas, T-Shirt, and more!  Get Creative.
-
-* [Curioos | The Digital Art Factory | Limited Edition Prints, Art Skins &amp; Accessories](http://www.curioos.com/#)
-High-quality art prints &amp; accessories designed by top talented artists around the world. Invitation-only.
 
 * [Animoto - Make &amp; Share Beautiful Videos Online](http://animoto.com/)
 The easy way to create and share extraordinary videos of your life. Our online video maker turns your photos, video clips and music into video in minutes.
 
-* [Wordle - Compose](http://www.wordle.net/compose)
 
 *[deviantART: where ART meets application!](http://www.deviantart.com/)
 Art - community of artists and those devoted to art. Digital art, skin art, themes, wallpaper art, traditional art, photography, poetry / prose. Art prints.
@@ -386,7 +335,6 @@ Invoice-o-matic is a free online invoice tool - just enter your details into the
 * [Make your own blog - Ownzee](http://www.ownzee.com/)
 Make your own blog with a simple and powerful blog website layout tool. Create your blog. The Ownzee website layout editor makes it easy to layout your blog website.
 
-* [Skilly](http://www.skilly.com/skills)
 
 * [Explore and validate Startup ideas](http://www.kickoffboost.com/)
 
@@ -413,7 +361,6 @@ Your website contain text fields that require user input. Learn how to enable sp
 
 * [x10Hosting Account Panel](https://x10hosting.com)
 * [cPanel X](https://boru.x10hosting.com:2083/frontend/x3/ftp/accounts.html)
-
 * [Colliers du Monde :: Accueil](http://colliersdumonde.comli.com/)
 
 ## Flight comparaion
@@ -425,73 +372,48 @@ Your website contain text fields that require user input. Learn how to enable sp
 * [FundingUniverse](http://www.fundinguniverse.com/sample-business-plans/?plan=Ice%20Cream%20Shop)
     FundingUniverse
 
-## Rails
-* [RailsCasts](http://railscasts.com) Best screencasts by Ryan Bates
-
 
 * [Freemium Pricing for SaaS: Optimizing Paid Conversion Upgrades](http://onstartups.com/tabid/3339/bid/84427/Freemium-Pricing-for-SaaS-Optimizing-Paid-Conversion-Upgrades.aspx)
     This article explores the important topic of free to paid conversions when using a freemium pricing model in SaaS companies.
 
 * [Breakout Incomes™](https://www.powersellsecrets.com/b/cc_99.php)
-    
 * [Tree-Nation » Plantez des arbres pour lutter contre les changements climatiques](http://www.tree-nation.com/plant)
     Tree-Nation est le réseau social qui plante des arbres. Plus de 90 000 membres  et des centaines d’entreprises se regroupent pour apporter leur soutien à des projets de reforestation visant à lutter contre les changements climatiques, la déforestation et la pauvreté.
-    
 * [Paste HTML](http://pastehtml.com) Beautifully simple and free HTML hosting. Paste your HTML code, plain text or Markdown and it will be hosted for free, no registration required.
-    
+
 * [HTML Mail - Send HTML Emails Online](http://ctrlq.org/html-mail/)
     Use HTML Mail to compose email messages in rich HTML text (with images) and send them online.
 
-    
 * [Meet Jenkins - Jenkins - Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
-    
+
 * [Find More Customers for Your B2B SaaS Product with These 5 Distribution Hacks](http://blog.kissmetrics.com/find-more-saas-customers/)
     Everywhere you turn, there’s an endless list of marketing tactics for expanding your business: 7 best practices for this, 14 ways to get more of that, how to accomplish something while sleeping. We have 50-bajillion ways to get our stuff shared on Pinterest, Facebook, or Twitter. Well that’s as dandy as a June bug on a summer’s day.
-    
+
 * [Internet 2011 in numbers](http://royal.pingdom.com/2012/01/17/internet-2011-in-numbers/)
     So what happened with the Internet in 2011? How many email accounts were there in the world in 2011? How many websites? How much did the most expensive domain name cost? How many photos were hosted on Facebook? How many videos were viewed to YouTube? We’ve got answers to these questions and many more. A veritable smorgasbord of numbers, statistics and data lies in front of you. Using a variety of sources we’ve compiled what we think are some of the more interesting numbers that describe the Internet in 2011.
 
-    
 * [The Internet Marketing List: 59 Things You Should Be Doing But Probably Aren’t – Portent](http://www.portent.com/blog/internet-marketing/the_internet_marketing_list_59.htm)
-    
-* [Hacker News](http://news.ycombinator.com/)
-
-
-* [Infographics &amp; Data Visualization | Visual.ly](http://visual.ly/)
-    Like infographics and data visualization? Visual.ly is the world&#39;s largest community of infographics and data visualization. Come explore, share, and create.
-
-
-* [Welcome | RocketHub](http://www.rockethub.com/)
 
 * [7 Best Practices for Improving Your Website&#39;s Usability](http://mashable.com/2011/09/12/website-usability-tips/)
     The Web Design Usability Series is supported by join.me, an easy way to instantly share your screen with anyone. join.me lets you collaborate on-the-fly, put your heads together...
 
-
-
 * [This picture says the opposite.](http://s7.postimg.org/gzcgg357f/Gfhds.jpg)
-    
+
 * [100 Websites You Should Know and Use - StumbleUpon](http://www.stumbleupon.com/su/AhYmb6/:mk90!J!G:l1Ds9bnv/blog.ted.com/2007/08/03/100_websites_yo/)
-    
 * [Keynote: Architecture the Lost Years - Robert Martin - Ruby Midwest 2011](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
     Expert recording and networking
       services for conferences, seminars
       and workshops.
 
-
 * [shit for making websites](http://shitformakingwebsites.com/)
-    
 * [Thrillbent - Comics for the rest of us](http://thrillbent.com/)
     THRILLBENT is a digital comics site created by award-winning comics writer Mark Waid and television writer/producer extraordinaire John Rogers.
-
 
 
 * [PHP Frameworks](http://phpframeworks.com/)
 We compare all kinds of PHP frameworks and help you choose the right php framework for your project.
 
 * [You Can Own This Domain | Project94](http://c.org/Web%02Applica.on%02Firewall%02Evalua.on%02Criteria)
-    
-* [WebPagetest - Website Performance and Optimization Test](http://www.webpagetest.org/)
-    Run a free website speed test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
 
 
 # To sort
@@ -507,7 +429,4 @@ We compare all kinds of PHP frameworks and help you choose the right php framewo
 Docker est un projet open-source permettant de packager, deployer and lancer n&#39;importe quelle application comme un conteneur léger  Epita - 4 juin 2013
 
 * [The Go Programming Language](http://golang.org/)
-
-
-
 
