@@ -1,6 +1,6 @@
 # Various links about everything
 
-# Design
+# Web Design Resources
 
 ## Color pickers
 
@@ -31,6 +31,7 @@
 * [Logopond](http://logopond.com/) Great selection of Logos
 * [Logo Faves](http://logofaves.com/) Another great selection of logos
 * [VisualSundae](http://visualsundae.com) Gallery of designer works on different support
+* [deviantART](http://www.deviantart.com/) Community of artists
 
 ## Charts
 
@@ -78,6 +79,7 @@
 * [Very nice sites](http://www.verynicesites.com) Large collection of awesome web designs.
 * [ThemeForest](http://themeforest.net) Site template for CMS
 * [Sallee Design](http://salleedesign.com/) Nice Portefolio
+* [Site5 FREE Themes Demo](http://demo.s5themes.com) Collection of HTML5 websites
 
 ## Photo Edition & Photoshop
 
@@ -85,7 +87,7 @@
 * [Brusheezy](http://www.brusheezy.com) Tons of free brushes, patterns and textures
 * [All Silhouettes](http://all-silhouettes.com/) A collection of free vector silhouettes, shapes and shadows.
 
-## Good websites
+## Amazing websites
 
 * [Disqus](http://disqus.com/gravity/) Web app to create communities
 * [Co-Operation Hub](http://www.cooperationhub.com/) Exchange your skill
@@ -97,6 +99,12 @@
 * [Skilly](http://www.skilly.com) Write the best code to win prizes
 * [Opinsy](http://opinsy.com/) Fun opinion platform
 * [Prezi](http://prezi.com/) Prezi is a cloud-based presentation software.
+* [Pact](http://www.gympact.com/) Receive money when practicing sport
+* [Explore and validate Startup ideas](http://www.kickoffboost.com/)
+* [Life360](http://www.life360.com/) Life360 is a family locator, messaging tool and communication app all in one.
+* [Promoboxx](http://www.promoboxx.com/) Brand to Retailer Marketing
+* [Animoto](http://animoto.com/) Easily turn photo into nice videos
+* [Paste HTML](http://pastehtml.com) Paste your HTML code, plain text or Markdown and it will be hosted for free.
 
 ## WireFraming
 
@@ -106,7 +114,6 @@
 ## Magento Themes
 
 * [40 Best Magento Themes](http://www.tripwiremagazine.com/2012/01/best-magento-themes.html) Free and Premium Themes for Magento
-
 
 ## International
 
@@ -200,6 +207,7 @@
 * [Categories and Sub-Categories in Rails](http://stackoverflow.com/questions/14197897/categories-and-sub-categories-model-rails) Best way to handle Categories in Rails
 * [Kansas City on Rails](http://kconrails.com) Blog containing usefull guides for common rails issues
 * [Ruby StyleGuide](https://github.com/styleguide/ruby) Styleguide for Ruby
+* [Backbone.js Tutorial with Rails (Part 1)](http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/)
 
 ## Rails Gems I Love
 
@@ -214,9 +222,17 @@
 
 * [iio Engine](http://iioengine.com/) iio Engine is an HTML5 framework on HTML5 canvas.
 
-## JQuery Plugins
+## JQuery Plugins and Snippets
 
 * [Unheap](http://www.unheap.com) A tidy repository of jQuery plugins
+* [40 Cool jQuery Animation Tutorials](http://www.tripwiremagazine.com/2012/11/jquery-animation-tutorials.html)
+Some of the best jQuery animation tutorials to help you acquire the skills in making animation effects that you will need in designing interesting websites
+* [Experimenting With jQuery&#39;s Queue() And Dequeue() Methods](http://www.bennadel.com/blog/1864-Experimenting-With-jQuery-s-Queue-And-Dequeue-Methods.htm)
+Ben Nadel explores jQuery&#39;s queuing mechanism and how to manage a custom queue with the queue() and dequeue() methods.
+* [Animated Text and Icon Menu with jQuery](http://tympanus.net/Tutorials/AnimatedTextIconMenu/example8.html)
+Animated Text and Icon Menu with jQuery
+* [Animated Text and Icon Menu with jQuery | Codrops](http://tympanus.net/codrops/2011/07/12/animated-text-and-icon-menu/)
+Today we want to show you how to create a slick menu with a nice animation feature on hover. The idea is to make some elements slide out, change and animate the background color of the item and then slide the elements back in with a different color.
 
 
 ## To sort
@@ -225,8 +241,6 @@
 In this collection, you will find 15 hand-picked tutorials from a variety of talented graphic designers and illustrators that discuss the logo creation process using Illustrator.
 
 
-* [What’s New in Drupal 7 | Nettuts+](http://net.tutsplus.com/tutorials/whats-new-in-drupal-7/)
-Drupal is one of the most popular content management systems (CMS) out there. To mark the new year, Drupal 7, the next major version of Drupal, is being
 
 
 * [25 Free WordPress Portfolio Themes for Photographers | WPLift](http://wplift.com/25-free-wordpress-portfolio-themes-for-photographers)
@@ -235,19 +249,14 @@ Drupal is one of the most popular content management systems (CMS) out there. To
 * [Best Of 2012: 50 Free WordPress Themes - noupe](http://www.noupe.com/wordpress/50-free-wordpress-themes-from-2012-74137.html)
 We have come to the end of 2012, and a new year is knocking or has already arrived in some areas of the world. High time for this article. Each year, hundreds of amazing free WordPress themes are released: the good, the bad and the ugly. Naturally, 2012 wasn&#39;t an exception. WordPress lovers received numerous free themes for their blogs and websites. In this round-up, we enlist 50 awesome free themes for self-hosted WordPress sites.
 
-* [Site5 FREE Themes Demo](http://demo.s5themes.com/?theme=veecard)
+
 
 * [A Showcase of 50 Amazing Personal Blog Web Designs - Speckyboy Design Magazine](http://speckyboy.com/2010/02/25/50-amazing-personal-blog-web-designs/)
 The importance of a unique, memorable and well designed blog, especially within the design community, should not be underestimated - First impressions will
 
-* [Animated Text and Icon Menu with jQuery](http://tympanus.net/Tutorials/AnimatedTextIconMenu/example8.html)
-Animated Text and Icon Menu with jQuery
 
-* [Animated Text and Icon Menu with jQuery | Codrops](http://tympanus.net/codrops/2011/07/12/animated-text-and-icon-menu/)
-Today we want to show you how to create a slick menu with a nice animation feature on hover. The idea is to make some elements slide out, change and animate the background color of the item and then slide the elements back in with a different color.
 
-* [40 Cool jQuery Animation Tutorials](http://www.tripwiremagazine.com/2012/11/jquery-animation-tutorials.html)
-Some of the best jQuery animation tutorials to help you acquire the skills in making animation effects that you will need in designing interesting websites
+
 
 * [Our 50 Favorite Web Designs from 2012](http://speckyboy.com/2013/01/07/favorite-web-designs-2012/)
 Web design is one such genre of art that has a lot of scope for innovation and improvement. Each year, we are presented with a plethora of awesome and mind
@@ -277,10 +286,10 @@ A visualization of the latest hot searches from Google Trends.
 ## Resources Dev
 
 * [Code Review Stack Exchange](http://codereview.stackexchange.com/)
-* [Zend Framework Tutorial: Quickstart (2) - YouTube](http://www.youtube.com/watch?v=BOwSfKXKpZQ&feature=relmfu)
-Im using version 1.11. After installing Zend Framework, follow this tutorial to see how we do some basic things like makes controllers and layouts. http://jr...
 
+* [Zend Framework Tutorial: Quickstart (2) - YouTube](http://www.youtube.com/watch?v=BOwSfKXKpZQ&feature=relmfu) Im using version 1.11. After installing Zend Framework, follow this tutorial to see how we do some basic things like makes controllers and layouts. http://jr...
 * [Zend Framework: Documentation: Utilisation de base des Placeholders - Zend Framework Manual](http://framework.zend.com/manual/fr/learning.view.placeholders.basics.html)
+* [Zend Framework](http://framework.zend.com/manual/2.0/en/user-guide/skeleton-application.html)
 
 * [Comment gerer l&#39;authentification sur une application Zend Framework | LyRiXx Blog](http://blog.lyrixx.info/zend/gerer-lauthentification-avec-zend_auth-du-zend-framework/)
 Comment faire une formulaire de login avec le zend framework ? Comment utiliser Zend_Auth ?
@@ -289,26 +298,22 @@ Comment faire une formulaire de login avec le zend framework ? Comment utiliser 
 * [Building a Website with PHP, MySQL and jQuery Mobile, Part 1 | Tutorialzine](http://tutorialzine.com/2011/08/jquery-mobile-product-website/)
 This is the first of a two-part tutorial, in which we will be building a simple computer shop website with PHP, MySQL and jQuery Mobile using the Model-View-Controller (MVC) pattern.
 
-* [Zend Framework](http://framework.zend.com/manual/2.0/en/user-guide/skeleton-application.html)
 
-* [Experimenting With jQuery&#39;s Queue() And Dequeue() Methods](http://www.bennadel.com/blog/1864-Experimenting-With-jQuery-s-Queue-And-Dequeue-Methods.htm)
-Ben Nadel explores jQuery&#39;s queuing mechanism and how to manage a custom queue with the queue() and dequeue() methods.
+
+
 
 * [BackboneRails.com - #1. Building Dialogs with Custom Regions](http://www.backbonerails.com/screencasts/building-dialogs-with-custom-regions)
 Integrating dialogs and modals into a Backbone.js application using jQuery UI
 
-* [Life360](http://www.life360.com/) Life360 is a family locator, messaging tool and communication app all in one.
 
 
-* [Brand to Retailer Marketing from Promoboxx](http://www.promoboxx.com/)
 
 
-* [Animoto - Make &amp; Share Beautiful Videos Online](http://animoto.com/)
-The easy way to create and share extraordinary videos of your life. Our online video maker turns your photos, video clips and music into video in minutes.
 
 
-*[deviantART: where ART meets application!](http://www.deviantart.com/)
-Art - community of artists and those devoted to art. Digital art, skin art, themes, wallpaper art, traditional art, photography, poetry / prose. Art prints.
+
+
+
 
 
 * [HTML5 Boilerplate: The web&#39;s most popular front-end template](http://html5boilerplate.com/)
@@ -336,7 +341,7 @@ Invoice-o-matic is a free online invoice tool - just enter your details into the
 Make your own blog with a simple and powerful blog website layout tool. Create your blog. The Ownzee website layout editor makes it easy to layout your blog website.
 
 
-* [Explore and validate Startup ideas](http://www.kickoffboost.com/)
+
 
 * [Information Is Beautiful](http://www.informationisbeautiful.net/)
 Dedicated to distilling the world’s data, information and knowledge into beautiful, interesting and, above all, useful visualizations, infographics and diagrams.
@@ -347,7 +352,7 @@ Download free ebooks for kindle, android, ipad, nook, epub or read online. No re
 * [Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.](http://www.nerdfitness.com/)
 Nerd Fitness: A fitness website for nerds and average Joes.  Helping you lose weight, get stronger, live better.
 
-* [Pact - Commit to you.](http://www.gympact.com/)
+
 
 ##Voice recognition
 
@@ -379,7 +384,6 @@ Your website contain text fields that require user input. Learn how to enable sp
 * [Breakout Incomes™](https://www.powersellsecrets.com/b/cc_99.php)
 * [Tree-Nation » Plantez des arbres pour lutter contre les changements climatiques](http://www.tree-nation.com/plant)
     Tree-Nation est le réseau social qui plante des arbres. Plus de 90 000 membres  et des centaines d’entreprises se regroupent pour apporter leur soutien à des projets de reforestation visant à lutter contre les changements climatiques, la déforestation et la pauvreté.
-* [Paste HTML](http://pastehtml.com) Beautifully simple and free HTML hosting. Paste your HTML code, plain text or Markdown and it will be hosted for free, no registration required.
 
 * [HTML Mail - Send HTML Emails Online](http://ctrlq.org/html-mail/)
     Use HTML Mail to compose email messages in rich HTML text (with images) and send them online.
@@ -418,10 +422,6 @@ We compare all kinds of PHP frameworks and help you choose the right php framewo
 
 # To sort
 
-* [CloudEdit: A Backbone.js Tutorial with Rails (Part 1)](http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/)
-
-* [Practical Object-Oriented Design in Ruby: An Agile Primer | InformIT](http://www.informit.com/store/practical-object-oriented-design-in-ruby-an-agile-primer-9780321721334)
-    Years after the initial release of Ruby on Rails, the chickens are coming home to roost. Suddenly, anyone could write a web application -- and it seems like everyone did. The web is now awash in Ruby applications that were easy to write but are now virtually impossible to change, extend, or grow. This book solves that problem by teaching developers real-world object oriented design techniques specifically focused on Ruby.
 
 * [33 Great Apps And Tools For Marketing Professionals](http://www.forbes.com/sites/allbusiness/2013/10/09/33-great-apps-and-tools-for-marketing-professionals/)
     © AA+W - Fotolia.com Online marketing has undergone a tremendous change since its early days. Where there used to be only backlinks and metadata, there is now a whole new universe of marketing channels. We present our list of 33 apps and tools to simplify your marketing efforts: Client Relations Apps Nimble (www.nimble.com): Manage [...]
